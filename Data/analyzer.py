@@ -1,11 +1,3 @@
-#Using Programming to Solve Problems CSIT-163-OL1-2026
-#2/16/2026
-#Project 6
-#Wyatt Robertson
-
-
-
-
 #allows the user to decide what file to mine in
 FILE_NAME=input('What file would you like to open?\n')
 
